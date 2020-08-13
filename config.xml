@@ -5,9 +5,9 @@
         xmlns:cdv="http://cordova.apache.org/ns/1.0"
         id          = "ru.tmb.tosk.lk"
         versionCode = "10"
-        version     = "1.11.0">
+        version     = "1.12.0">
 
-    <name>lk.tosk.tmb.ru</name>
+    <name>Личный кабинет АО "ТОСК"</name>
 
     <description>
         Личный кабинет АО "ТОСК"
